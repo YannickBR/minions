@@ -1,0 +1,23 @@
+h1,h2,p,label {
+	font-family: 'Rubik', sans-serif;
+}
+input {
+	border-radius: 2vw;
+	padding: .3vw;
+}
+body {
+	background-color: #03cffc;
+}
+
+input.submit {
+	background-color: #52fffc;
+	color: black;
+	font-family: monospace;
+	transition: .3s;
+}
+
+input.submit:hover {
+	background-color: #46dbd9;
+	transition: .3s;
+
+}
